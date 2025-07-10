@@ -1,0 +1,16 @@
+total 23
+drwxr-xr-x 1 BOSSMAN 197121     0 Jul  3 21:32 .
+drwxr-xr-x 1 BOSSMAN 197121     0 Jul  3 19:37 ..
+-rw-r--r-- 1 BOSSMAN 197121 12288 Jul  3 21:07 .7-file.swp
+-rwxr-xr-x 1 BOSSMAN 197121    32 Jul  3 19:41 0-hello_world
+-rwxr-xr-x 1 BOSSMAN 197121    28 Jul  3 20:00 1-confused_smiley
+-rwxr-xr-x 1 BOSSMAN 197121    28 Jul  3 20:05 2-hellofile
+-rwxr-xr-x 1 BOSSMAN 197121    39 Jul  3 20:09 3-twofiles
+-rwxr-xr-x 1 BOSSMAN 197121    29 Jul  3 20:13 4-lastlines
+-rwxr-xr-x 1 BOSSMAN 197121    29 Jul  3 20:46 5-firstlines
+-rwxr-xr-x 1 BOSSMAN 197121    40 Jul  3 20:53 6-third_line
+-rwxr-xr-x 1 BOSSMAN 197121    78 Jul  3 21:23 7-file
+-rwxr-xr-x 1 BOSSMAN 197121    34 Jul  3 21:30 8-cwd_state
+-rw-r--r-- 1 BOSSMAN 197121   266 Jul  3 19:52 README.md
+-rw-r--r-- 1 BOSSMAN 197121   727 Jul  3 20:55 iacta
+-rw-r--r-- 1 BOSSMAN 197121     0 Jul  3 21:32 lscwdcontent
