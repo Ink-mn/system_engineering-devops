@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# This script lists files in the current directory, displaying only the part after the first dash
+
+for file in *; do
+  # Check if it's a file or directory (optional, can remove if you want all items)
+  # Extract part after first dash
+  echo "${file#*-}"
+done
